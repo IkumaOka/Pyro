@@ -1,0 +1,8 @@
+N_train_data: 229     avg. training seq. length: 60.29    N_mini_batches: 12
+[training epoch 0000]  62.5545 				(dt = 13.425 sec)
+N_train_data: 229     avg. training seq. length: 60.29    N_mini_batches: 12
+[training epoch 0000]  58.8030 				(dt = 12.886 sec)
+[training epoch 0001]  46.2033 				(dt = 12.532 sec)
+[training epoch 0002]  25.2181 				(dt = 12.284 sec)
+[training epoch 0003]  17.2768 				(dt = 12.438 sec)
+[training epoch 0004]  15.1741 				(dt = 12.584 sec)
